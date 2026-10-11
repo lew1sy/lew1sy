@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm lewis, working on my graduate program, Learning to build my own world with my mind and AI.
+
+Infinite progress and become stronger !
+
 <!--
 **lew1sy/lew1sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
