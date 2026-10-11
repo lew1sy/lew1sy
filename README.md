@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm lewis, working on my graduate program, Learning to build my own world with my mind and AI.
+I'm lewis, working on my graduate program, learning to build my own world with my mind and AI.
 
 Infinite progress and become stronger !
 
